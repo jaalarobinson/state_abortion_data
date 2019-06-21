@@ -1,15 +1,15 @@
 This data is made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the data are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
 
-#Human Readable Summary:
+# Human Readable Summary:
 
-##You are free:
+## You are free:
 
 <ul><li>To Share: To copy, distribute and use the database.</li>
 <li>To Create: To produce works from the database.</li>
 <li>To Adapt: To modify, transform and build upon the database.</li>
 </ul>
 
-##As long as you:
+## As long as you:
 
 <ul><li>Attribute: You must attribute any public use of the database, or works produced from the database, in the manner specified in the ODbL. For any use or redistribution of the database, or works produced from it, you must make clear to others the license of the database and keep intact any notices on the original database.</li>
 <li>Share-Alike: If you publicly use any adapted version of this database, or works produced from an adapted database, you must also offer that adapted database under the ODbL.</li>
