@@ -19,4 +19,7 @@ I also include the source code I use to clean and compile this dataframe. I do n
 
 This project is practice for me at using Python for data purposes. I have been trained using statistical software to carry out data analysis and visualization, and now I'm expanding my skills to a more general-purpose language. As such, please excuse any errors or coding faux pas. I do not have a background in computer science.
 
+#### Why 'Project Duct Tape'
+
+Cause I'm smashing this data together with duct tape. 
 
