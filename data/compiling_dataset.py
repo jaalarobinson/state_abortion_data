@@ -669,11 +669,11 @@ ipums_grped['race_1'].describe()
 
 
 requests.get(
-    'https://api.legiscan.com/?key=60c925507ef9c23462c1a91b581aa1c1&op=getDatasetList&id=1468&state=ALABAMA'). \
+    'https://api.legiscan.com/?key=&op=getDatasetList&id=1468&state=ALABAMA'). \
     json()
 
 
-requests.get('https://api.legiscan.com/?key=60c925507ef9c23462c1a91b581aa1c1&op=getDataset&id=1661&access_key=5dAREvxZLLvgPProw2nDmm')
+requests.get('https://api.legiscan.com/?key=&op=getDataset&id=1661&access_key=5dAREvxZLLvgPProw2nDmm')
 
 # I am independent research pro and anti abortion organizations (or chapters) within each state and compiling these into a
 # separate dataset.
@@ -692,10 +692,10 @@ organizations = df.DataFrame({
 
 #I'm bringing in data from other sources here
 
-# legiscan 60c925507ef9c23462c1a91b581aa1c1
+# legiscan
 
 #datasets_alabama = requests.get(
-    'https://api.legiscan.com/?key=60c925507ef9c23462c1a91b581aa1c1&op=getDatasetList&id=1468&state=ALABAMA').
+    'https://api.legiscan.com/?key=&op=getDatasetList&id=1468&state=ALABAMA').
     json()
 
 #datasets_alabama = datasets_alabama['datasetlist']
@@ -718,13 +718,13 @@ def get_alabama_sets():
     """none yet"""
     for i in len(alabama_session_id):
         alabama_i = requests.get/
-        ('https://api.legiscan.com/?key=60c925507ef9c23462c1a91b581aa1c1&op=getDataset&id='/
+        ('https://api.legiscan.com/?key=&op=getDataset&id='/
         alabama_session_id[i]'&access_key='alabama_access_key[i]).json()
         alabama_sets.append(alabama_i)
 
 
 
-#r = requests.get('https://api.legiscan.com/?key=60c925507ef9c23462c1a91b581aa1c1&op=getDataset&id=1468&access_key=1yJHafJalhE8M7BkAV89JO').json()
+#r = requests.get('&op=getDataset&id=1468&access_key=1yJHafJalhE8M7BkAV89JO').json()
 
 #dict_r = r['dataset']
 #z = dict_r['zip']
@@ -732,7 +732,7 @@ def get_alabama_sets():
 
 
 
-#get https://api.legiscan.com/?key=60c925507ef9c23462c1a91b581aa1c1&op=getDataset&id=1468&access_key=1yJHafJalhE8M7BkAV89JO
+#get https://api.legiscan.com/?key=&op=getDataset&id=1468&access_key=1yJHafJalhE8M7BkAV89JO
 
 
 # In[99]:
