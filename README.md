@@ -1,9 +1,9 @@
 # Project Duct Tape
-This project is my active compilation of state-level abortion information over the past four decades. At completion, it will include a variety of variables, including demographic variables, legislative variables, and information about pro- and anti- abortion non-profits in each state.
+This project is my compilation of state-level abortion information over the past four decades. At completion, it will include a variety of variables, including demographic variables, legislative variables, and information about pro- and anti- abortion non-profits in each state.
 
 This is an independent project and is not affiliated with any organization, company, or group.
 
-#### Project Status: Active
+#### Project Status: Hiatus
 
 ### Sources
 
